@@ -1,5 +1,5 @@
 ## PulseBeat_02's Github
-Hello everyone, I am a **Java** activist and I love programming my projects using the language. I also have learned other languages such as **HTML**, **CSS**, **Javascript**, and some **Python**. I am the owner of the King Mammoth Sole Proprietership (Organization), and also I am involved in other organizations such as **Ponclure**, a small group of developers who likes creating Minecraft Plugins using the Spigot API, mods using the Forge/Fabric API, as well as datapacks/resourcepacks/worlds which are used in our projects. Some projects that I have included in my portfolio include:
+Hello everyone, my name is PulseBeat_02, and I am a **Java** activist and I love programming my projects using the language. I also have learned other languages such as **HTML**, **CSS**, **Javascript**, and some **Python**. I am the owner of the King Mammoth Sole Proprietership (Organization), and also I am involved in other organizations such as **Ponclure**, a small group of developers around the world who likes creating Minecraft Plugins using the Spigot API, mods using the Forge/Fabric API, as well as datapacks/resourcepacks/worlds which are used in our projects. Some projects that I have included in my portfolio include:
 
 - **King Mammoth** [Organization]:
     - Website: https://github.com/king-mammoth/King-Mammoth-Website
@@ -17,3 +17,4 @@ Hello everyone, I am a **Java** activist and I love programming my projects usin
 
 You will see me in many places, particularily involved in the Spigot Discord, Forge Forums, as well as many other places. If you have any questions, contact me! :)
 
+![Meme](https://images3.memedroid.com/images/UPLOADED793/5b4f049b3a976.jpeg)
