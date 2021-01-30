@@ -24,7 +24,7 @@ Projects that won't recieve further development, but still worth noting!
 - **Among Us**
     - [Among Us Worlds](https://github.com/Ponclure/Among-Us-Worlds)
     - [Among Us Resourcepack](https://github.com/Ponclure/Among-Us-Resourcepacks)
-    - [Among Us recreation in **Minecraft**](https://github.com/Ponclure/Minecraft-Among-Us)
+    - [Among Us Recreation in **Minecraft**](https://github.com/Ponclure/Minecraft-Among-Us)
 - [SkyPulseStats](https://github.com/PulseBeat02/SkyPulseStats)
 - [Coppers Odds Shoe Raffle](https://github.com/PulseBeat02/Coppers-Odds-Shoe-Raffle-Service)
 - [CSV Graphing Application](https://github.com/PulseBeat02/CSV-Grapher)
