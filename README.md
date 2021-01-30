@@ -1,10 +1,10 @@
-## PulseBeat_02's Github
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=PulseBeat02.PulseBeat02)
+### **Hello, I'm PulseBeat_02**
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=PulseBeat02&show_icons=true&hide_border=true&theme=dark&icon_color=00f6ff&count_private=true&include_all_commits=true">
 
-Hello everyone, my name is PulseBeat_02, and I am a **Java** activist and I love programming my projects using the language. I also have learned other languages such as **HTML**, **CSS**, **Javascript**, and some **Python**. I am the owner of the King Mammoth Sole Proprietership (Organization), and also I am involved in other organizations such as **Ponclure**, a small group of developers around the world who likes creating Minecraft Plugins using the Spigot API, mods using the Forge/Fabric API, as well as datapacks/resourcepacks/worlds which are used in our projects. Some projects that I have included in my portfolio include:
+![visitors](https://visitor-badge.glitch.me/badge?page_id=PulseBeat02.PulseBeat02)
+
+I am a **Java** activist and I love programming my projects using the language. I have learned languages such as **HTML**, **CSS**, **Javascript**, and some **Python**. I am the owner of the King Mammoth, and also involved in other organizations such as **Ponclure** (a small group of developers who likes creating Minecraft Plugins using the Spigot API, mods using the Forge/Fabric API, as well as datapacks/resourcepacks/worlds). My portfolio includes:
 
 ---
 - [MinecraftMediaLibrary](https://github.com/PulseBeat02/MinecraftMediaLibrary)
