@@ -6,8 +6,6 @@ I am a **Java** activist and I love programming my projects using the language. 
 
 Aside from competitive programming, I am the owner of the King Mammoth, and also involved in other organizations such as **Ponclure** (a small group of developers who likes creating Plugins using the Spigot API, mods using the Forge/Fabric API, as well as datapacks/resourcepacks/worlds). My portfolio includes:
 
-[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PulseBeat02&layout=compact&hide_border=true&theme=dark&icon_color=00f6ff&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
 ---
 - [Competitive Programming](https://github.com/PulseBeat02/Competitive-Programming)
 - [MinecraftMediaLibrary](https://github.com/PulseBeat02/MinecraftMediaLibrary)
