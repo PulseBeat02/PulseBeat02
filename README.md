@@ -16,7 +16,7 @@ Aside from competitive programming, I am the owner of the King Mammoth, and also
     - [Website](https://github.com/king-mammoth/King-Mammoth-Website)
     - [Installer](https://github.com/king-mammoth/King-Mammoth-Installer)
     - [Cut Scenes Mod](https://github.com/king-mammoth/King-Mammoth-Cut-Scenes)
-- [**PONCLURE**](https://ponclure.github.io/)
+- [**Ponclure**](https://ponclure.github.io/)
     - [Security API](https://github.com/Ponclure/SecurityCams)
     - [SimpleNPCFramework](https://github.com/Ponclure/Simple-NPC-Framework)
 - [Potato](https://github.com/PulseBeat02/Potato)
@@ -33,6 +33,7 @@ Projects that won't recieve further development, but still worth noting!
 - [CSV Graphing Application](https://github.com/PulseBeat02/CSV-Grapher)
 ---
 
-You will see me in many places, particularily involved in the Spigot Discord, Forge Forums, as well as many other places. If you have any questions, contact me! :)
+You will see me in many places, particularily involved in the Spigot Discord, Forge Forums, as well as many other places. 
+If you have any questions, contact me! :)
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
