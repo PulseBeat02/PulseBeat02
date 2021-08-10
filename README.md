@@ -9,7 +9,7 @@ I am a **Java** activist and I love programming my projects using the language. 
 Aside from competitive programming, I am the owner of the King Mammoth, and also involved in other organizations such as **Ponclure** (a small group of developers who likes creating Plugins using the Spigot API, mods using the Forge/Fabric API, as well as datapacks/resourcepacks/worlds). My portfolio includes:
 
 ---
-- [EzMediaCore](https://github.com/PulseBeat02/EzMediaCore)
+- [EzMediaCore](https://github.com/MinecraftMediaLibrary/EzMediaCore)
 - [Competitive Programming](https://github.com/PulseBeat02/Competitive-Programming)
 - [SMPPlugin](https://github.com/PulseBeat02/SMP-Plugin)
 - [**King Mammoth**](https://king-mammoth.org)
