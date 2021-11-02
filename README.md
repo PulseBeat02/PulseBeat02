@@ -19,8 +19,9 @@ I am currently working on [EzMediaCore](https://github.com/MinecraftMediaLibrary
     - [EzMediaCore Wiki](https://github.com/MinecraftMediaLibrary/EzMediaCore-Wiki)
     - [Jarchivelib](https://github.com/MinecraftMediaLibrary/jarchivelib/tree/master)
 - [CCHS Unblocker](https://github.com/PulseBeat02/CCHS-Unblocker)
+- [Advent of Code 2020](https://github.com/PulseBeat02/Advent-of-Code-2020)
 - [Competitive Programming](https://github.com/PulseBeat02/Competitive-Programming)
-- [SMPPlugin](https://github.com/PulseBeat02/SMP-Plugin)
+- [BuildTools Gui](https://github.com/PulseBeat02/BuildToolsGui)
 - [Potato](https://github.com/PulseBeat02/Potato)
 
 ---
@@ -35,6 +36,7 @@ I am currently working on [EzMediaCore](https://github.com/MinecraftMediaLibrary
     - [Among Us Worlds](https://github.com/Ponclure/Among-Us-Worlds)
     - [Among Us Resourcepack](https://github.com/Ponclure/Among-Us-Resourcepacks)
     - [Among Us Recreation in **Minecraft**](https://github.com/Ponclure/Minecraft-Among-Us)
+- [SMPPlugin](https://github.com/PulseBeat02/SMP-Plugin)
 - [SkyPulseStats](https://github.com/PulseBeat02/SkyPulseStats)
 - [CSV Graphing Application](https://github.com/PulseBeat02/CSV-Grapher)
 
@@ -42,10 +44,6 @@ I am currently working on [EzMediaCore](https://github.com/MinecraftMediaLibrary
 
 You will see me in many places, particularily involved in the Spigot Discord, Forge Forums, as well as many other places. 
 If you have any questions, contact me! :)
-
----
-
-![Jokes Card](https://readme-jokes.vercel.app/api)
 
 ---
 
