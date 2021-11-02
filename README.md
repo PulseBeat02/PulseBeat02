@@ -1,27 +1,32 @@
 ### **Hello, I'm PulseBeat_02**
+
+<img align="right" src="https://metrics.lecoq.io/PulseBeat02?template=classic&isocalendar=1&languages=1&lines=1&stars=1&people=1&isocalendar.duration=full-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&stars.limit=4&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&config.timezone=America%2FNew_York">
+
 **Pronouns:** he/him/his
 
-I am a **Java** activist and I love programming my projects using the language. I have learned languages such as **Processing**, **Kotlin**, **HTML/CSS/Javascript**, and some **Python**. I am avid algorithmic programmer as [well](https://github.com/PulseBeat02/Competitive-Programming) who loves solving problems from the USACO, Advent of Code, and Foo Bar. I am currently in <span style="color:blue">Gold</span> division for the USACO.
+---
 
-<img align="right" src="https://metrics.lecoq.io/pulsebeat02?template=classic&activity=1&languages=1&followup=1&isocalendar=1&activity.limit=5&activity.days=14&activity.filter=all&isocalendar.duration=full-year&languages.colors=github&languages.threshold=0%25&config.animated=true">
+I am a **Java** activist and I love programming. I have learned other languages such as **Kotlin**, **Processing**, **HTML/CSS/Javascript**, and some **Python**. I am avid algorithmic programmer as [well](https://github.com/PulseBeat02/Competitive-Programming) who loves solving problems from the USACO, Advent of Code, and Foo Bar. I am currently in Gold division for the [USACO](http://www.usaco.org/).
 
-Aside from competitive programming, I am the owner of MinecraftMediaLibrary and retired owner of past organizations. I am currently working on [EzMediaCore](https://github.com/MinecraftMediaLibrary/EzMediaCore), so it would be very apreciated if you could check out my work and give a star if you want :D
+Aside from competitive programming, I am the owner of MinecraftMediaLibrary and retired owner of King Mammoth. 
 
-My portfolio includes:
+I am currently working on [EzMediaCore](https://github.com/MinecraftMediaLibrary/EzMediaCore), so it would be very apreciated if you could check out my work and give a star if you want :D
 
 ---
+
 - **MinecraftMediaLibrary**
     - [EzMediaCore](https://github.com/MinecraftMediaLibrary/EzMediaCore)
     - [EzMediaCore Wiki](https://github.com/MinecraftMediaLibrary/EzMediaCore-Wiki)
     - [Jarchivelib](https://github.com/MinecraftMediaLibrary/jarchivelib/tree/master)
+- [CCHS Unblocker](https://github.com/PulseBeat02/CCHS-Unblocker)
 - [Competitive Programming](https://github.com/PulseBeat02/Competitive-Programming)
 - [SMPPlugin](https://github.com/PulseBeat02/SMP-Plugin)
 - [Potato](https://github.com/PulseBeat02/Potato)
+
 ---
 
 **Discontinued Projects**
 
-Projects that won't recieve further development, but still worth noting!
 - **King Mammoth** (retired owner)
     - [Website](https://github.com/king-mammoth/King-Mammoth-Website)
     - [Installer](https://github.com/king-mammoth/King-Mammoth-Installer)
@@ -32,16 +37,21 @@ Projects that won't recieve further development, but still worth noting!
     - [Among Us Recreation in **Minecraft**](https://github.com/Ponclure/Minecraft-Among-Us)
 - [SkyPulseStats](https://github.com/PulseBeat02/SkyPulseStats)
 - [CSV Graphing Application](https://github.com/PulseBeat02/CSV-Grapher)
+
 ---
 
 You will see me in many places, particularily involved in the Spigot Discord, Forge Forums, as well as many other places. 
 If you have any questions, contact me! :)
 
+---
+
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 ---
 
-**PGP Key for Verification**
+<details>
+  <summary>PGP Key for Verification</summary>
+  
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
@@ -96,3 +106,5 @@ xTm5vmgXaCgl3aJra1DRD1HuSFOe1XkFTF80J8rB
 =FJ3H
 -----END PGP PUBLIC KEY BLOCK-----
 ```
+  
+</details>
