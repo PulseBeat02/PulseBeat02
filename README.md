@@ -16,12 +16,12 @@ I am currently working on [EzMediaCore](https://github.com/MinecraftMediaLibrary
 
 - **MinecraftMediaLibrary**
     - [EzMediaCore](https://github.com/MinecraftMediaLibrary/EzMediaCore)
-    - [EzMediaCore Wiki](https://github.com/MinecraftMediaLibrary/EzMediaCore-Wiki)
+    - [EMC Installers](https://github.com/MinecraftMediaLibrary/emc-installers)
     - [Jarchivelib](https://github.com/MinecraftMediaLibrary/jarchivelib/tree/master)
-- [CCHS Unblocker](https://github.com/PulseBeat02/CCHS-Unblocker)
+- [Urban Dictionary Plugin](https://github.com/PulseBeat02/urban-dictionary-plugin)
+- [Advent of Code 2021](https://github.com/PulseBeat02/Advent-of-Code-2021)
 - [Advent of Code 2020](https://github.com/PulseBeat02/Advent-of-Code-2020)
-- [Competitive Programming](https://github.com/PulseBeat02/Competitive-Programming)
-- [BuildTools Gui](https://github.com/PulseBeat02/BuildToolsGui)
+- [USACO](https://github.com/PulseBeat02/Competitive-Programming)
 - [Potato](https://github.com/PulseBeat02/Potato)
 
 ---
@@ -39,6 +39,7 @@ I am currently working on [EzMediaCore](https://github.com/MinecraftMediaLibrary
 - [SMPPlugin](https://github.com/PulseBeat02/SMP-Plugin)
 - [SkyPulseStats](https://github.com/PulseBeat02/SkyPulseStats)
 - [CSV Graphing Application](https://github.com/PulseBeat02/CSV-Grapher)
+- [BuildTools Gui](https://github.com/PulseBeat02/BuildToolsGui)
 
 ---
 
