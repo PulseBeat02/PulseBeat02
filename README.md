@@ -16,8 +16,10 @@ I am currently working on [EzMediaCore](https://github.com/MinecraftMediaLibrary
 
 - **MinecraftMediaLibrary**
     - [EzMediaCore](https://github.com/MinecraftMediaLibrary/EzMediaCore)
+    - [Native Library Loader](https://github.com/MinecraftMediaLibrary/native-library-loader)
     - [EMC Installers](https://github.com/MinecraftMediaLibrary/emc-installers)
-    - [Jarchivelib](https://github.com/MinecraftMediaLibrary/jarchivelib/tree/master)
+    - [EMC Runtime Dependency Management](https://github.com/MinecraftMediaLibrary/emc-dependency-management)
+    - [Youtube DL REST API Server](https://github.com/MinecraftMediaLibrary/youtube-dl-rest-server)
 - [Urban Dictionary Plugin](https://github.com/PulseBeat02/urban-dictionary-plugin)
 - [Advent of Code 2021](https://github.com/PulseBeat02/Advent-of-Code-2021)
 - [Advent of Code 2020](https://github.com/PulseBeat02/Advent-of-Code-2020)
