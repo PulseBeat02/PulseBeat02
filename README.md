@@ -10,9 +10,14 @@ I am a **Java** activist and I love programming. I have learned other languages 
 
 Aside from competitive programming, I am the owner of MinecraftMediaLibrary and retired owner of King Mammoth. 
 
-I am currently working on [EzMediaCore](https://github.com/MinecraftMediaLibrary/EzMediaCore), so it would be very apreciated if you could check out my work and give a star if you want :D
+---
+
+**Current Projects**
+- **SMP Earth Plugin** (Private)
 
 ---
+
+**Discontinued Projects**
 
 - **MinecraftMediaLibrary**
     - [EzMediaCore](https://github.com/MinecraftMediaLibrary/EzMediaCore)
@@ -24,12 +29,6 @@ I am currently working on [EzMediaCore](https://github.com/MinecraftMediaLibrary
 - [Advent of Code 2021](https://github.com/PulseBeat02/Advent-of-Code-2021)
 - [Advent of Code 2020](https://github.com/PulseBeat02/Advent-of-Code-2020)
 - [USACO](https://github.com/PulseBeat02/Competitive-Programming)
-- [Potato](https://github.com/PulseBeat02/Potato)
-
----
-
-**Discontinued Projects**
-
 - **King Mammoth** (retired owner)
     - [Website](https://github.com/king-mammoth/King-Mammoth-Website)
     - [Installer](https://github.com/king-mammoth/King-Mammoth-Installer)
@@ -45,7 +44,7 @@ I am currently working on [EzMediaCore](https://github.com/MinecraftMediaLibrary
 
 ---
 
-You will see me in many places, particularily involved in the Spigot Discord, Forge Forums, as well as many other places. 
+You will see me in many places, particularily involved in the Fabric Discord, Spigot Discord, Forge Forums, as well as many other places. 
 If you have any questions, contact me! :)
 
 ---
