@@ -2,8 +2,6 @@
 
 <img align="right" src="https://metrics.lecoq.io/PulseBeat02?template=classic&isocalendar=1&languages=1&lines=1&stars=1&people=1&isocalendar.duration=full-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&stars.limit=4&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&config.timezone=America%2FNew_York" height="1200">
 
-**Pronouns:** he/him/his
-
 ---
 
 - Java activist
