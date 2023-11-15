@@ -10,6 +10,8 @@
 - Learned Kotlin, Processing, Javascript, Python
 - Competitive Programmer ([USACO](http://www.usaco.org/) Gold Division, FooBar)
 
+Join my [Discord Server](https://discord.gg/cUMB6kCsh6) if you have any questions.
+
 ---
 
 **Current Projects**
