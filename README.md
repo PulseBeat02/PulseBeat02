@@ -6,46 +6,16 @@
 
 ---
 
-I am a **Java** activist and I love programming. I have learned other languages such as **Kotlin**, **Processing**, **HTML/CSS/Javascript**, and some **Python**. I am avid algorithmic programmer as [well](https://github.com/PulseBeat02/Competitive-Programming) who loves solving problems from the USACO, Advent of Code, and Foo Bar. I am currently in Gold division for the [USACO](http://www.usaco.org/).
-
-Aside from competitive programming, I am the owner of MinecraftMediaLibrary and retired owner of King Mammoth. 
+- Java activist
+- Learned Kotlin, Processing, Javascript, Python
+- Competitive Programmer ([USACO](http://www.usaco.org/) Gold Division, FooBar)
 
 ---
 
 **Current Projects**
-- **SMP Earth Plugin** (Private)
-
----
-
-**Discontinued Projects**
-
-- **MinecraftMediaLibrary**
-    - [EzMediaCore](https://github.com/MinecraftMediaLibrary/EzMediaCore)
-    - [Native Library Loader](https://github.com/MinecraftMediaLibrary/native-library-loader)
-    - [EMC Installers](https://github.com/MinecraftMediaLibrary/emc-installers)
-    - [EMC Runtime Dependency Management](https://github.com/MinecraftMediaLibrary/emc-dependency-management)
-    - [Youtube DL REST API Server](https://github.com/MinecraftMediaLibrary/youtube-dl-rest-server)
-- [Urban Dictionary Plugin](https://github.com/PulseBeat02/urban-dictionary-plugin)
-- [Advent of Code 2021](https://github.com/PulseBeat02/Advent-of-Code-2021)
-- [Advent of Code 2020](https://github.com/PulseBeat02/Advent-of-Code-2020)
-- [USACO](https://github.com/PulseBeat02/Competitive-Programming)
-- **King Mammoth** (retired owner)
-    - [Website](https://github.com/king-mammoth/King-Mammoth-Website)
-    - [Installer](https://github.com/king-mammoth/King-Mammoth-Installer)
-    - [Cut Scenes Mod](https://github.com/king-mammoth/King-Mammoth-Cut-Scenes)
-- **Ponclure**
-    - [Among Us Worlds](https://github.com/Ponclure/Among-Us-Worlds)
-    - [Among Us Resourcepack](https://github.com/Ponclure/Among-Us-Resourcepacks)
-    - [Among Us Recreation in **Minecraft**](https://github.com/Ponclure/Minecraft-Among-Us)
-- [SMPPlugin](https://github.com/PulseBeat02/SMP-Plugin)
-- [SkyPulseStats](https://github.com/PulseBeat02/SkyPulseStats)
-- [CSV Graphing Application](https://github.com/PulseBeat02/CSV-Grapher)
-- [BuildTools Gui](https://github.com/PulseBeat02/BuildToolsGui)
-
----
-
-You will see me in many places, particularily involved in the Fabric Discord, Spigot Discord, Forge Forums, as well as many other places. 
-If you have any questions, contact me! :)
+- [SMP Earth Mod](https://github.com/PulseBeat02/earthsmp-mod)
+- [Neon](https://github.com/PulseBeat02/Neon)
+- [Messing With Unsafe](https://github.com/PulseBeat02/MessingWithUnsafe)
 
 ---
 
