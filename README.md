@@ -4,6 +4,7 @@
 CS student based in Los Angeles, California.
 ---
 *Head of Back End Development @ [Halvex](halvex.net)*
+
 *Computer Science Student @ [UCLA](ucla.edu)*
 
 [![LinkedIn](https://img.shields.io/badge/-brandonli28-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brandonli28/)](https://www.linkedin.com/in/brandonli28/)
