@@ -1,7 +1,7 @@
 ### **Hi, I'm Brandon Li!**
 
 ---
-CS student based in Los Angeles, California.
+CS student studying in Los Angeles, California.
 ---
 *Head of Back End Development @ [Halvex](halvex.net)*
 
