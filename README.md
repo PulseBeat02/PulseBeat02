@@ -7,6 +7,8 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
 
+https://brandonli.me/ 
+
 I'm from Boston, Massachusetts, and I am computer science student studying at the [University of California, Los Angeles](https://www.ucla.edu/). I'm currently the Head of Back End Development
 at [Halvex](halvex.net). If you have any questions about my projects, feel free to join my [Discord Server](https://discord.gg/cUMB6kCsh6) for my support!
 
