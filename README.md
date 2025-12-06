@@ -1,6 +1,6 @@
 ### Hey, I'm Brandon 👋
 
-I'm a software engineer intern at [VideoLAN](https://www.videolan.org/) mostly working with open-source projects like [VLC Media Player](https://www.videolan.org/vlc/). We make the ultimate video player. 🎉
+I'm a software engineer intern at [Google](https://www.google.com/) mostly working on the [YouTube](https://www.youtube.com/) video player.
 
 In my free-time, I work on my open-source projects you can see pinned below. I also have a [portfolio website](https://brandonli.me/) 📝 that contains a lot of the things that I make. 🤯
 
