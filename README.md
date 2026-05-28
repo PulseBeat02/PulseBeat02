@@ -1,7 +1,10 @@
-### Hey, I'm Brandon 👋
+Brandon Li (a.k.a PulseBeat_02)
+- 🔭 Working on [YouTube](https://www.youtube.com/), [VLC](https://www.videolan.org/), and [yt-media-storage](https://github.com/PulseBeat02/yt-media-storage)
+- 📫 Website: https://brandonli.me/
 
-I'm a software engineer working on video related stuff.
+---
 
-In my free-time, I work on my open-source projects you can see pinned below. I also have a [portfolio website](https://brandonli.me/) 📝 that contains a lot of the things that I make. 🤯
-
-<img src="https://githubcard.com/PulseBeat02.svg?d=dNfYJayE" />
+**😀 Socials**:
+- YouTube: https://www.youtube.com/@pulsebeat_02
+- LinkedIn: https://www.linkedin.com/in/brandonli28
+- Discord: https://discord.gg/RAD6sSwKs2
